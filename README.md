@@ -6,10 +6,10 @@ This repo contains the Research Grant Reports submtted to **University of Mumbai
 - [**Grant Sanction Letter**](https://github.com/LifnaJos/Research-Grant-Project-Reports/blob/main/MRP_Grant_2016-17.pdf)
 - [**Report**](https://github.com/LifnaJos/Minor-Research-Grant-Project-Reports/blob/main/UM-MRP-Grant-Report-2016-17.pdf)
 
-- [**Paper Published**](https://link.springer.com/chapter/10.1007/978-981-15-1480-7_28)
+- [**Paper Published**](https://link.springer.com/chapter/10.1007/978-981-15-1480-7_28) : Lifna, C.S., Vijayalakshmi, M. (2020). Location-Based Alert System Using Twitter Analytics. In: Raju, K., Govardhan, A., Rani, B., Sridevi, R., Murty, M. (eds) Proceedings of the Third International Conference on Computational Intelligence and Informatics . Advances in Intelligent Systems and Computing, vol 1090. Springer, Singapore. https://doi.org/10.1007/978-981-15-1480-7_28
 
 ### Project - 2 : Coreveillance—Making Our World a “SAFER” Place (2019-20)
 - **Abstract** : The culture in our civic society has undergone an abrupt change due to the extensive use of CCTV surveillance. Currently, our urban society is exclusively dependent upon CCTV footage for divulging any abnormal situation. This scenario has given rise to new openings for the researchers to judiciously utilize video analytics techniques to focus on many sensitive issues in society such as contravention of human rights (HR). The purpose of this paper is to design a surveillance platform equipped with situation intelligence to aid government and non-government working departments in taking corrective action against unfavorable intruders and destructive mishaps.
 - [**Grant Sanction Letter**](https://github.com/LifnaJos/Research-Grant-Project-Reports/blob/main/MRP_Grant_2019-20.pdf)
 - [**Report**]()
-- [**Paper Published**](https://link.springer.com/chapter/10.1007/978-981-15-7062-9_68)
+- [**Paper Published**](https://link.springer.com/chapter/10.1007/978-981-15-7062-9_68) : Lifna, C.S., Narang, A., Chotwani, D., Lalchandani, P., Raghani, C. (2021). Coreveillance—Making Our World a “SAFER” Place. In: Senjyu, T., Mahalle, P.N., Perumal, T., Joshi, A. (eds) Information and Communication Technology for Intelligent Systems. ICTIS 2020. Smart Innovation, Systems and Technologies, vol 196. Springer, Singapore. https://doi.org/10.1007/978-981-15-7062-9_68 
