@@ -3,13 +3,13 @@ This repo contains the Research Grant Reports submtted to **University of Mumbai
 ### Project - 1 : Location based Alert System using Twitter Analytics (2016-17)
 - **Abstract** : In today’s industry, Enterprises are rigorously blending Social Intelligence with Business Intelligence to achieve Competitive Intelligence. So, the ongoing process of Social Analytics cannot be overlooked. If used judiciously, Social Analytics can even address many sensitive social issues such as violation of Human Rights. The objective of the study was to design a platform for Location-Based Alert System which can aid Government bodies in taking corrective action against violation of Human Rights. The locations extracted from tweets were successfully plotted on to Indian map. This visualization revealed the importance of integrating News Analytics with Social Analytics for deriving precise inferences about event.
 
-- **[Grant Sanction Letter]**(https://github.com/LifnaJos/Research-Grant-Project-Reports/blob/main/MRP_Grant_2016-17.pdf)
-- **[Report]**(https://github.com/LifnaJos/Minor-Research-Grant-Project-Reports/blob/main/UM-MRP-Grant-Report-2016-17.pdf)
+- [**Grant Sanction Letter**](https://github.com/LifnaJos/Research-Grant-Project-Reports/blob/main/MRP_Grant_2016-17.pdf)
+- [**Report**](https://github.com/LifnaJos/Minor-Research-Grant-Project-Reports/blob/main/UM-MRP-Grant-Report-2016-17.pdf)
 
-- **[Paper Published]**(https://link.springer.com/chapter/10.1007/978-981-15-1480-7_28)
+- [**Paper Published**](https://link.springer.com/chapter/10.1007/978-981-15-1480-7_28)
 
 ### Project - 2 : Coreveillance—Making Our World a “SAFER” Place (2019-20)
 - **Abstract** : The culture in our civic society has undergone an abrupt change due to the extensive use of CCTV surveillance. Currently, our urban society is exclusively dependent upon CCTV footage for divulging any abnormal situation. This scenario has given rise to new openings for the researchers to judiciously utilize video analytics techniques to focus on many sensitive issues in society such as contravention of human rights (HR). The purpose of this paper is to design a surveillance platform equipped with situation intelligence to aid government and non-government working departments in taking corrective action against unfavorable intruders and destructive mishaps.
-- **[Grant Sanction Letter]**(https://github.com/LifnaJos/Research-Grant-Project-Reports/blob/main/MRP_Grant_2019-20.pdf)
-- **[Report]**()
-- **[Paper Published]**(https://link.springer.com/chapter/10.1007/978-981-15-7062-9_68)
+- [**Grant Sanction Letter**](https://github.com/LifnaJos/Research-Grant-Project-Reports/blob/main/MRP_Grant_2019-20.pdf)
+- [**Report**]()
+- [**Paper Published**](https://link.springer.com/chapter/10.1007/978-981-15-7062-9_68)
