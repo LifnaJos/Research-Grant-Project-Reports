@@ -1,4 +1,4 @@
-This repo contains the Research Grant Reports submtted to **University of Mumbai.**
+This repo contains the Research Grant related docuemnts (sanction letter, report, papers published detailed) submtted to **University of Mumbai.**
 
 ### Project - 1 : Location based Alert System using Twitter Analytics (2016-17)
 - **Abstract** : In today’s industry, Enterprises are rigorously blending Social Intelligence with Business Intelligence to achieve Competitive Intelligence. So, the ongoing process of Social Analytics cannot be overlooked. If used judiciously, Social Analytics can even address many sensitive social issues such as violation of Human Rights. The objective of the study was to design a platform for Location-Based Alert System which can aid Government bodies in taking corrective action against violation of Human Rights. The locations extracted from tweets were successfully plotted on to Indian map. This visualization revealed the importance of integrating News Analytics with Social Analytics for deriving precise inferences about event.
